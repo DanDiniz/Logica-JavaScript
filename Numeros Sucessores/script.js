@@ -3,10 +3,11 @@
   mostrar seus sucessores definidos pelo usuário
 */ 
 
-var resultados = document.querySelector('.resultado')
+var resultados = document.querySelector('.resultado');
 var num = document.getElementById('num');
 var sucessores = document.getElementById('sucessores');
 var button = document.getElementById('button')
+
 
 
 button.addEventListener('click',()=>{
@@ -32,9 +33,14 @@ button.addEventListener('click',()=>{
             `
         
         Indice ++;
-    };
+      };
 
   }
-
     
 });
+
+document.getElementById('clear').addEventListener('click',()=>{
+
+document.querySelector('.resultado').innerHTML = " ";
+
+})
