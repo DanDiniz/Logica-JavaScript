@@ -37,6 +37,7 @@ input[type='button']{
     margin: 20px 10px 0; 
     height: 200px;
     background-color: #ccc;
+    overflow: scroll;
 }
 
 .resultado h2{
