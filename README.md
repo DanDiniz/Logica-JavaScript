@@ -1,4 +1,6 @@
 # Logica-JavaScript
+
+- Me siga para ver esse Repositorio ficar Gigante!!!:yellow_heart:
  
 ![Isso é uma imagem](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/04/silicon-valley-s2.png)
 
