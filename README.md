@@ -5,3 +5,7 @@
 > Este repositorio contém vários exercicios que peguei da internet para Treinar minha lógica de Programação em JavaScript, Fique avontade para acessar os links e Praticar se quiser
 > [Estes Exercicios Servem para Qualquer linguagem porém vou usar para postar aqui minha evolução com JS, HTML e CSS como principal foco].
 
+## Links 
+
+- [Exercicios IFBA (download)](https://ads.ifba.edu.br/dl1012).
+
