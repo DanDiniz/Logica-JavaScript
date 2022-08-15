@@ -41,6 +41,6 @@ button.addEventListener('click',()=>{
 
 document.getElementById('clear').addEventListener('click',()=>{
 
-document.querySelector('.resultado').innerHTML = " ";
+  document.querySelector('.resultado').innerHTML = " ";
 
 })
